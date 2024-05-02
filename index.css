@@ -9,7 +9,7 @@ body {
 .container {
     background-image: url("shoeib-abolhassani-ukDEbYnyDsU-unsplash.jpg");
     background-size:cover;
-    max-width: 80%;
+    max-width: 100vh;
     margin:auto;
     padding: 1rem;
     border-radius:20px;
