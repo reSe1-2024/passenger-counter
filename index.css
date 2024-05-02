@@ -13,8 +13,11 @@ body {
     background-position: center;
     max-width: 80%;
     margin:auto;
-    padding: 1rem;
+    padding: 2rem;
     border-radius:20px;
+    position: absolute;
+    top:50%;
+    left: 50%;
 }
 h1 {
     margin-top: 10px;
